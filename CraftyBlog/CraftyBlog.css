@@ -1,0 +1,41 @@
+body {
+    background-color: #FE4542;
+}
+
+div.container {
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: #FDDDC6;
+    padding: 10px;
+    
+}
+
+header {
+     background-color: #ED1523;
+     color: white;
+     margin-left: -10px;
+     margin-right: -10px;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    width:200px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+header>ul>li {
+    
+    display: inline-block;
+  
+    
+}
+
+li.other {
+    margin-left: 60px;
+}
